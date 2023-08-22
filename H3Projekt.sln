@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H3Projekt.WebAPI", "H3Projekt.WebAPI\H3Projekt.WebAPI.csproj", "{C8582DF2-FAB4-429E-8956-0A98E94BDE7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H3Projekt.Database", "H3Projekt.Database\H3Projekt.Database.csproj", "{5058C2DB-0A19-41FC-A606-6F718D16D2E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8582DF2-FAB4-429E-8956-0A98E94BDE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8582DF2-FAB4-429E-8956-0A98E94BDE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8582DF2-FAB4-429E-8956-0A98E94BDE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8582DF2-FAB4-429E-8956-0A98E94BDE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5058C2DB-0A19-41FC-A606-6F718D16D2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5058C2DB-0A19-41FC-A606-6F718D16D2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5058C2DB-0A19-41FC-A606-6F718D16D2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5058C2DB-0A19-41FC-A606-6F718D16D2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {669D995E-9989-49F1-8522-8D773593B316}
+	EndGlobalSection
+EndGlobal
